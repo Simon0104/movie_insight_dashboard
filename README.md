@@ -27,4 +27,4 @@ streamlit run app.py
 - `notebook/` - Supporting scripts and test modules
 
 ## 📸 Screenshots
-![Dashboard Screenshot](./screenshots/iShot_2025-03-03_16.57.32.png)
+![Dashboard Screenshot](./screenshots/movie_insight_dashboard_screenshot.png)
